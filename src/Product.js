@@ -10,6 +10,7 @@ const Product = ({ id, title, price, image, rating }) => {
       item: {
         id,
         title,
+        image,
         price,
         rating,
       },
